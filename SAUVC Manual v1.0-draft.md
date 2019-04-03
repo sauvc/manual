@@ -1,26 +1,21 @@
 # SAUVC manual
 
-
-
 ![](https://sauvc.org/img/logo_notext.png)
-
-
 
 ### Design to compete. Destined to explore.
 
 ### 1. Introduction
 Singapore AUV challenge was first conducted in year 2013 with the aim of raising awareness about marine science & technology and growing the marine robotics and related community in Singapore. Over the years, the challenge has witnessed exponential growth in terms of reach and number of participants. We had 6 teams in year 2013, that has grown to around 60 teams trying to compete in the final challenge in year 2019.
 
-
 ![](images/2013.jpg)
 
-**Group photo from 2013** 
+**2013** 
 
 ![](images/2019.jpg)
 
-**Group photo from 2019**
+**2019**
 
-While the core committee of people who started the event has largely remained the same, the size of the committee has also grown form 2013 to date. Additionally, the various functions that needs managing has also grown. So far, the knowledge of various aspects of the event organization has been passed from one committee to another.
+While the core committee of people who started the event has largely remained the same, the size of the committee has also grown form 2013 to date. Additionally, the various functions that needs managing has also grown. The knowledge of how to go about the various aspects of organizing SAUVC, has been passed from one committee to another, year after year.
 
 As with all growing teams/organizations, especially one that comprises entirely of volunteers, being able to work independently in an agile fashion, is a key factor. In order to achieve this, we need to have a common repository of the knowledge that has accumulated over the years. This is the intend of this manual.
 
@@ -30,7 +25,7 @@ This manual is meant as a guide to various aspects of SAUVC such as:
 - General timeline from the formation of a new committee to the debrief meeting of the event
 - Recommended timeline for the major activities. E.g. announcement of the event, closing of registration etc.
 
-### 2. Committee Structure
+### 2. Committee structure
 While the actual event comprises of 3-4 days of activities (typically over a weekend), it is the culmination of a year worth of planning and background work.
 
 A recommended list of roles required for the SAUVC committee over the duration of the entire year is as follows:
