@@ -159,4 +159,35 @@ A general timeline of the event is as follows. Y1 indicates Y1 (the year in whic
 26. TODO: Add typical itinerary as of 2019
 
 ### 5. Timeline for each subcommittee
-> TODO: By each committee
+
+TODO: By each committee
+
+### 6. Shared resources for committee
+
+> Resources include: 
+>
+> * Online media accounts
+>   * auvc.singapore@gmail.com
+>   * [Facebook page](https://www.facebook.com/SingaporeAUVChallenge/?ref=bookmarks "SAUVC FB page")
+>   * [Twitter handle](<https://twitter.com/sauvcsg> "SAUVC Twitter")
+>   * [Instagram handle](<https://www.instagram.com/sauvcsg/> "SAUVC Instagram")
+>   * [Reddit page](<[https://reddit.com/r/SAUVC/](https://www.reddit.com/r/SAUVC/)> "SAUVC Reddit")
+>   * [Flickr albums](<https://www.flickr.com/photos/sauvc/> "SAUVC Flickr")
+>   * [Github page](https://github.com/sauvc "SAUVC Github")
+>   * [Youtube page](https://www.youtube.com/channel/UCC1XR5k-A8oQUrXvRDni_YQ "SAUVC Youtube")
+>   * Registration, and t-shirt+diet preferences forms are on google account of auvc.singapore@gmail.com
+>   * Team's feedback form is on surveymonkey accessible from google id of auvc.singapore@gmail.com
+>   * Polling for panel discussion questions is typically done on pigeonhole
+>   * 
+> * Banners, standees (SAUVC banner, 2 generic standees with 'co-organized with SP', and 2 more are printed each year with that year's sponsor logos)
+> * Document templates/raw files
+>   * Visa invitation letter
+>   * Guest invitation letter
+>   * Publicity mail 
+>   * Generic Flyers
+>   * Publicity flyer
+>   * Logo
+>   * Logistics manual/Program details sent to teams
+>   * Master excel sheet for consolidating all team logistics/details
+>
+>   TODO : Upload all docs to a google drive folder of auvc.singapore account ?
