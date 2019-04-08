@@ -130,25 +130,33 @@ Various responsibilities associated with each of the roles and any subcommittees
 - Managing sauvc.org website
 
 ### 4. General timeline of the event
-A general timeline of the event is as follows
-1. Formation of committee and initial meeting: March - April
-2. Announcements - dates of event, venue, registration start & end dates
-3. Sponsorship discussions (ongoing)
-4. Outreach to new institutions
-5. Assignment of team POCs
-6. Event update announcements as and when required
-7. Selection of guests/speakers?
-8. Closure of registration
-9. Meeting 2
-10. Collection of team details - number of members, t-shirt sizes, dietary restrictions
-11. Tshirt printing
-12. Signup event management company for logistics management
-13. Food order
-14. Issue visa invitation letters
-15. Meeting 3 - prior to competition
-16. Actual competition
-  17. TODO: Add typical itinerary as of 2019
-18. Debrief meeting + social dinner + committee dissolve
+A general timeline of the event is as follows. Y1 indicates Y1 (the year in which committee is formed) and Y2 the following year when event takes place
+1. **Formation of committee and initial meeting**: March - April Y1
+2. **Announcements** - dates of event, venue: March - April Y1 during kickoff meeting?
+3. **Generic publicity flyer preparation**: After dates/venue fixed 
+4. **Event update announcements on FB and website** - as and when required
+5. **Registration start & end dates**: April-May Y1?
+6. **Sponsorship discussions**: start from April Y1, good to semi-finalize sponsors by Feb Y2
+7. **Outreach to new institutions to join as competing teams**: April Y1 till registration closure
+8. **Closure of registration**: Sep Y1
+9. **Assignment of team POCs**: Right after registration closure
+10. **Selection of guests/speakers? **
+11. **Meeting 2** - formalize on registered teams, video submissions, numbers etc
+12. **Video submission deadline**: Dec Y1
+13. **Publicity for visitors to attend the event**: Throughout the year, with more intensity during the 3 months before event
+14. **Detailed publicity flyer preparation (with more detail on schedule)**: After schedule fixed, typically within 3 months before event
+15. **Eventbrite event creation and email announcement**: After schedule fixed, typically within 3 months before event
+16. **Short-listing of teams based on video submissions**: Jan Y2
+17. **Collection of team details** - number of members, t-shirt sizes, dietary restrictions: After team shortlisting
+18. **Issue visa invitation letters**: After team shortlisting
+19. **Tshirt printing**: After receiving numbers on Tshirts, atleast a month or two before event (Feb Y2?)
+20. **Signup event management company for logistics management**: 
+21. **Food order**: Feb Y2?
+22. **Call for volunteers**: Jan/Feb Y2?
+23. **Meeting 3** : prior to competition (include volunteers)
+24. **Actual competition**
+25. **Debrief meeting + social dinner + committee dissolve**: After event, say Mar/Apr Y2
+26. TODO: Add typical itinerary as of 2019
 
 ### 5. Timeline for each subcommittee
 > TODO: By each committee
