@@ -131,32 +131,70 @@ Various responsibilities associated with each of the roles and any subcommittees
 
 ### 4. General timeline of the event
 A general timeline of the event is as follows. Y1 indicates Y1 (the year in which committee is formed) and Y2 the following year when event takes place
-1. **Formation of committee and initial meeting**: March - April Y1
-2. **Announcements** - dates of event, venue: March - April Y1 during kickoff meeting?
-3. **Generic publicity flyer preparation**: After dates/venue fixed 
-4. **Event update announcements on FB and website** - as and when required
-5. **Registration start & end dates**: April-May Y1?
-6. **Sponsorship discussions**: start from April Y1, good to semi-finalize sponsors by Feb Y2
-7. **Outreach to new institutions to join as competing teams**: April Y1 till registration closure
-8. **Closure of registration**: Sep Y1
-9. **Assignment of team POCs**: Right after registration closure
-10. **Selection of guests/speakers? **
-11. **Meeting 2** - formalize on registered teams, video submissions, numbers etc
-12. **Video submission deadline**: Dec Y1
-13. **Publicity for visitors to attend the event**: Throughout the year, with more intensity during the 3 months before event
-14. **Detailed publicity flyer preparation (with more detail on schedule)**: After schedule fixed, typically within 3 months before event
-15. **Eventbrite event creation and email announcement**: After schedule fixed, typically within 3 months before event
-16. **Short-listing of teams based on video submissions**: Jan Y2
-17. **Collection of team details** - number of members, t-shirt sizes, dietary restrictions: After team shortlisting
-18. **Issue visa invitation letters**: After team shortlisting
-19. **Tshirt printing**: After receiving numbers on Tshirts, atleast a month or two before event (Feb Y2?)
-20. **Signup event management company for logistics management**: 
-21. **Food order**: Feb Y2?
-22. **Call for volunteers**: Jan/Feb Y2?
-23. **Meeting 3** : prior to competition (include volunteers)
-24. **Actual competition**
-25. **Debrief meeting + social dinner + committee dissolve**: After event, say Mar/Apr Y2
-26. TODO: Add typical itinerary as of 2019
+1. **Formation of committee and initial meeting**: March - April Y1 (2019 date: Apr 29)
+   * Construct next SAUVC committee
+   * Decide next SAUVC dates
+   * Initiate pool booking
+   * Set registration format/fees
+2. **Announcements on website and social media** - dates of event, venue: March - April Y1 after kickoff meeting
+3. **Update signatories for cheques** March - April Y1 after kickoff meeting
+4. **Generic publicity flyer preparation**: After dates/venue fixed 
+5. **Event update announcements on FB and website** - as and when required
+6. **Registration start & end dates**: April-May Y1?
+7. **Sponsorship discussions**: start from April Y1, good to semi-finalize sponsors by Feb Y2
+8. **Outreach to new institutions to join as competing teams**: April Y1 till registration closure
+9. **Closure of registration**: Sep Y1
+10. **Assignment of team POCs**: Right after registration closure
+11. **Selection of guests/speakers? **
+12. **Meeting 2** - formalize on registered teams, video submissions, numbers etc
+13. **Video submission deadline**: Dec Y1
+14. **Publicity for visitors to attend the event**: Throughout the year, with more intensity during the 3 months before event
+15. **Detailed publicity flyer preparation (with more detail on schedule)**: After schedule fixed, typically within 3 months before event
+16. **Eventbrite event creation and email announcement**: After schedule fixed, typically within 3 months before event
+17. **Short-listing of teams based on video submissions**: Jan Y2
+18. **Collection of team details** - number of members, t-shirt sizes, dietary restrictions: After team shortlisting
+19. **Issue visa invitation letters**: After team shortlisting
+20. **Tshirt printing**: After receiving numbers on Tshirts, atleast a month or two before event (Feb Y2?)
+21. **Signup event management company for logistics management**: 
+22. **Food order**: Feb Y2?
+23. **Call for volunteers**: Jan/Feb Y2?
+24. **Meeting 3** : prior to competition (include volunteers)
+25. **Actual competition**
+26. **Send feedback forms to teams**
+27. **Debrief meeting + social dinner + committee dissolve**: After event, say Mar/Apr Y2 
+    * Debrief of event
+    * Finances - closing of books
+    * Discussion of feedback
+
+
+
+### 5. Timeline of SAUVC 2019
+
+| Date                              | Activity                                                     |
+| --------------------------------- | ------------------------------------------------------------ |
+| April 18, 2018                    | Debrief for SAUVC'18<br />Finances - closing of books<br />Selection of chair/secretary for SAUVC'19<br />Addressing problems faced in SAUVC'18 |
+| Apr. 18 - May 10, 2018            | Construct next SAUVC'19 committee                            |
+| May 12, 2018                      | Sent Doodle poll - committee meeting                         |
+| May 15, 2018                      | **Committee meeting**<br />Official announcement of committee members and roles<br />Decide SAUVC'19 dates<br />Initiate pool booking<br />Set registration fees<br /><br />Updates to rulebook text<br />Updates to SAUVC website<br />Archive SAUVC'18 website and set deadline for launch of SAUVC'19 site<br />Initiate signatories update for the SAUVC account <br /><br />Event publicity (stickers & flyers for Oceans/IROS/ICRA/ASA) |
+| May 18, 2018                      | Website launched                                             |
+| June 12, 2018                     | Broadcast registration link to potential participants<br />Activate Google registration form and link to website |
+| June 28, 2018                     | Sent Doodle poll - committee meeting                         |
+| July 6, 2018                      | **Committee meeting** <br />Technical committee concerns<br />Finalize game plan<br />Finalize registration details & website launch <br />Include registration and video submission deadlines on website<br />Finalize timelines for registration, video submission, and outcome |
+| November 15, 2018                 | Deadline registration                                        |
+| **November 16 -25, 2018**         | Assign pocs to each team<br />Add names to website (do not publish) |
+| November 26, 2018                 | Broadcast email to all registered teams<br />Ask pocs to contact teams<br />Publish updated SAUVC website |
+| **Nov. 15, 2018 - Jan. 10, 2019** | POCs asked to consolidate all videos<br />Spreadsheet shared amongst committee |
+| December 31, 2018                 | Deadline: video submission<br />Send out broadcast for deadline extension :) |
+| January 10, 2019                  | Firm deadline: video submission                              |
+| January 14, 2019                  | Technical committee meets to short-list teams                |
+| January 15, 2019                  | Announcement of shortlisted & conditionally accepted teams<br /><br />Set deadline **January 25, 2019** to submit team list, food preferences, shirt sizes. |
+| **January 10 - 17, 2019**         | Shirt design committee & participants<br />Pigeonhole: selection of colors from the committee |
+| January 27, 2019                  | Update short-listed teams on website                         |
+| January 29, 2019                  | Sent Doodle poll - committee meeting                         |
+| January 30, 2019                  | Sent PayPal quotes to all teams with more than 6 members, accepting till event day **March 8, 2019** |
+| February 11, 2019                 | **Committee meeting** <br />Update on sponsorship<br />Event-day roles and responsibilities<br />Team & participant count<br />logistics manual |
+| February 15, 2019                 | Broadcast qualifiers balloting  form to all participants<br />Balloting between **Feb. 18 - Feb. 25, 2019** |
+| February 18, 2019                 | Orders given for shirt printing, lanyards, and tote-bags     |
 
 ### 5. Timeline for each subcommittee
 
