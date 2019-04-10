@@ -131,37 +131,42 @@ Various responsibilities associated with each of the roles and any subcommittees
 
 ### 4. General timeline of the event
 A general timeline of the event is as follows. Y1 indicates Y1 (the year in which committee is formed) and Y2 the following year when event takes place
-1. **Formation of committee and initial meeting**: March - April Y1 (2019 date: Apr 29)
+1. **Formation of committee and initial meeting**: March - April Y1
    * Construct next SAUVC committee
    * Decide next SAUVC dates
    * Initiate pool booking
    * Set registration format/fees
-2. **Announcements on website and social media** - dates of event, venue: March - April Y1 after kickoff meeting
+2. **Announcements on website and social media** : March - April Y1 after kickoff meeting
+   * Archive previous website
+   * Launch next event's website with updated dates of event, venue
 3. **Update signatories for cheques** March - April Y1 after kickoff meeting
 4. **Generic publicity flyer preparation**: After dates/venue fixed 
-5. **Event update announcements on FB and website** - as and when required
-6. **Registration start & end dates**: April-May Y1?
-7. **Sponsorship discussions**: start from April Y1, good to semi-finalize sponsors by Feb Y2
-8. **Outreach to new institutions to join as competing teams**: April Y1 till registration closure
-9. **Closure of registration**: Sep Y1
-10. **Assignment of team POCs**: Right after registration closure
-11. **Selection of guests/speakers? **
-12. **Meeting 2** - formalize on registered teams, video submissions, numbers etc
-13. **Video submission deadline**: Dec Y1
-14. **Publicity for visitors to attend the event**: Throughout the year, with more intensity during the 3 months before event
-15. **Detailed publicity flyer preparation (with more detail on schedule)**: After schedule fixed, typically within 3 months before event
-16. **Eventbrite event creation and email announcement**: After schedule fixed, typically within 3 months before event
-17. **Short-listing of teams based on video submissions**: Jan Y2
-18. **Collection of team details** - number of members, t-shirt sizes, dietary restrictions: After team shortlisting
-19. **Issue visa invitation letters**: After team shortlisting
-20. **Tshirt printing**: After receiving numbers on Tshirts, atleast a month or two before event (Feb Y2?)
-21. **Signup event management company for logistics management**: 
-22. **Food order**: Feb Y2?
-23. **Call for volunteers**: Jan/Feb Y2?
-24. **Meeting 3** : prior to competition (include volunteers)
-25. **Actual competition**
-26. **Send feedback forms to teams**
-27. **Debrief meeting + social dinner + committee dissolve**: After event, say Mar/Apr Y2 
+5. **Update rulebook**: After kickoff meeting
+   * Announce rulebook on website after updates
+6. **Event update announcements on FB and website** - as and when required
+7. **Set up registration form, broadcast registration link to mailing list of potential participants**: May-June Y1
+8. **Registration start & end dates**: April-May Y1?
+9. **Sponsorship discussions**: start from April Y1, good to semi-finalize sponsors by Feb Y2
+10. **Outreach to new institutions to join as competing teams**: April Y1 till registration closure
+11. **Closure of registration**: Sep Y1
+12. **Assignment of team POCs**: Right after registration closure
+13. **Selection of guests/speakers? **
+14. **Meeting 2** - formalize on registered teams, video submissions, numbers etc
+15. **Video submission deadline**: Dec Y1
+16. **Publicity for visitors to attend the event**: Throughout the year, with more intensity during the 3 months before event
+17. **Detailed publicity flyer preparation (with more detail on schedule)**: After schedule fixed, typically within 3 months before event
+18. **Eventbrite event creation and email announcement**: After schedule fixed, typically within 3 months before event
+19. **Short-listing of teams based on video submissions**: Jan Y2
+20. **Collection of team details** - number of members, t-shirt sizes, dietary restrictions: After team shortlisting
+21. **Issue visa invitation letters**: After team shortlisting
+22. **Tshirt printing**: After receiving numbers on Tshirts, atleast a month or two before event (Feb Y2?)
+23. **Signup event management company for logistics management**: 
+24. **Food order**: Feb Y2?
+25. **Call for volunteers**: Jan/Feb Y2?
+26. **Meeting 3** : prior to competition (include volunteers)
+27. **Actual competition**
+28. **Send feedback forms to teams**
+29. **Debrief meeting + social dinner + committee dissolve**: After event, say Mar/Apr Y2 
     * Debrief of event
     * Finances - closing of books
     * Discussion of feedback
