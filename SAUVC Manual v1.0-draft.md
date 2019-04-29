@@ -9,21 +9,21 @@ Singapore AUV challenge was first conducted in year 2013 with the aim of raising
 
 ![](images/2013.jpg)
 
-**2013** 
+**2013**
 
 ![](images/2019.jpg)
 
 **2019**
 
-While the core committee of people who started the event has largely remained the same, the size of the committee has also grown form 2013 to date. Additionally, the various functions that needs managing has also grown. The knowledge of how to go about the various aspects of organizing SAUVC, has been passed from one committee to another, year after year.
+While the core committee of people who started the event has largely remained the same, the size of the committee has also grown from 2013 to date. Additionally, the various functions that needs managing has also grown. The knowledge of how to go about the various aspects of organizing SAUVC, has been passed from one committee to another, year after year.
 
 As with all growing teams/organizations, especially one that comprises entirely of volunteers, being able to work independently in an agile fashion, is a key factor. In order to achieve this, we need to have a common repository of the knowledge that has accumulated over the years. This is the intent of this manual.
 
 This manual is meant as a guide to various aspects of SAUVC such as:
 - Structure of the SAUVC committee
 - Roles and responsibilities of each of the sub-committees/members
-- General timeline from the formation of a new committee leading all the way to the event and the post-event debrief meeting
-- Recommended timeline for the major activities. E.g. announcement of the event, closing of registration etc.
+- General time-line from the formation of a new committee leading all the way to the event and the post-event debrief meeting
+- Recommended time-line for the major activities. E.g. announcement of the event, closing of registration etc.
 
 ### 2. Committee structure
 While the actual event comprises of 3-4 days of activities (typically over a weekend), it is the culmination of a year's worth of planning and background work.
@@ -65,18 +65,17 @@ Various responsibilities associated with each of the roles and any subcommittees
 #### Chair
 - Overall committee oversight
 - Formal invitations to some dignitaries/groups to attend the event
-- Timeline management for whole event (over the year)
+- Time-line management for whole event (over the year)
 - Agenda for each meeting
 - > Managing international committee?
 - Reporting subcommittees
-
   - All other committees report to chair
 
 #### Vice-chair
 - Visa invitation chair (visa letters to teams)
 - Creation & management of online forms
   - Number of people & names (for certificates)
-  - Tshirts & sizes
+  - T-shirts & sizes
   - Dietary preferences
   - Name list finalization during registration
 
@@ -87,7 +86,7 @@ Various responsibilities associated with each of the roles and any subcommittees
 #### Secretrary
 - Meeting minutes
 - Manning auvc.singapore@gmail.com email account
-- Replying to fb messages + reddit responses
+- Replying to Facebook messages + Reddit responses
 
 #### Outreach
 - Get more teams to participate
@@ -129,8 +128,8 @@ Various responsibilities associated with each of the roles and any subcommittees
 #### Webmaster
 - Managing sauvc.org website
 
-### 4. General timeline of the event
-A general timeline of the event is as follows. Y1 indicates Y1 (the year in which committee is formed) and Y2 the following year when event takes place
+### 4. General time-line of the event
+A general time-line of the event is as follows. Y1 indicates Y1 (the year in which committee is formed) and Y2 the following year when event takes place
 1. **Formation of committee and initial meeting**: March - April Y1
    * Construct next SAUVC committee
    * Decide next SAUVC dates
@@ -140,7 +139,7 @@ A general timeline of the event is as follows. Y1 indicates Y1 (the year in whic
    * Archive previous website
    * Launch next event's website with updated dates of event, venue
 3. **Update signatories for cheques** March - April Y1 after kickoff meeting
-4. **Generic publicity flyer preparation**: After dates/venue fixed 
+4. **Generic publicity flyer preparation**: After dates/venue fixed
 5. **Update rulebook**: After kickoff meeting
    * Announce rulebook on website after updates
 6. **Event update announcements on FB and website** - as and when required
@@ -159,21 +158,21 @@ A general timeline of the event is as follows. Y1 indicates Y1 (the year in whic
 19. **Short-listing of teams based on video submissions**: Jan Y2
 20. **Collection of team details** - number of members, t-shirt sizes, dietary restrictions: After team shortlisting
 21. **Issue visa invitation letters**: After team shortlisting
-22. **Tshirt printing**: After receiving numbers on Tshirts, atleast a month or two before event (Feb Y2?)
-23. **Signup event management company for logistics management**: 
+22. **T-shirt printing**: After receiving numbers on T-shirts, at-least a month or two before event (Feb Y2?)
+23. **Sign-up event management company for logistics management**:
 24. **Food order**: Feb Y2?
 25. **Call for volunteers**: Jan/Feb Y2?
 26. **Meeting 3** : prior to competition (include volunteers)
 27. **Actual competition**
 28. **Send feedback forms to teams**
-29. **Debrief meeting + social dinner + committee dissolve**: After event, say Mar/Apr Y2 
+29. **Debrief meeting + social dinner + committee dissolve**: After event, say Mar/Apr Y2
     * Debrief of event
     * Finances - closing of books
     * Discussion of feedback
 
 
 
-### 5. Timeline of SAUVC 2019
+### 5. Time-line of SAUVC 2019
 
 | Date                              | Activity                                                     |
 | --------------------------------- | ------------------------------------------------------------ |
@@ -184,10 +183,10 @@ A general timeline of the event is as follows. Y1 indicates Y1 (the year in whic
 | May 18, 2018                      | Website launched                                             |
 | June 12, 2018                     | Broadcast registration link to potential participants<br />Activate Google registration form and link to website |
 | June 28, 2018                     | Sent Doodle poll - committee meeting                         |
-| July 6, 2018                      | **Committee meeting** <br />Technical committee concerns<br />Finalize game plan<br />Finalize registration details & website launch <br />Include registration and video submission deadlines on website<br />Finalize timelines for registration, video submission, and outcome |
+| July 6, 2018                      | **Committee meeting** <br />Technical committee concerns<br />Finalize game plan<br />Finalize registration details & website launch <br />Include registration and video submission deadlines on website<br />Finalize time-lines for registration, video submission, and outcome |
 | November 15, 2018                 | Deadline registration                                        |
-| **November 16 -25, 2018**         | Assign pocs to each team<br />Add names to website (do not publish) |
-| November 26, 2018                 | Broadcast email to all registered teams<br />Ask pocs to contact teams<br />Publish updated SAUVC website |
+| **November 16 -25, 2018**         | Assign POCs to each team<br />Add names to website (do not publish) |
+| November 26, 2018                 | Broadcast email to all registered teams<br />Ask POCs to contact teams<br />Publish updated SAUVC website |
 | **Nov. 15, 2018 - Jan. 10, 2019** | POCs asked to consolidate all videos<br />Spreadsheet shared amongst committee |
 | December 31, 2018                 | Deadline: video submission<br />Send out broadcast for deadline extension :) |
 | January 10, 2019                  | Firm deadline: video submission                              |
@@ -201,34 +200,35 @@ A general timeline of the event is as follows. Y1 indicates Y1 (the year in whic
 | February 15, 2019                 | Broadcast qualifiers balloting  form to all participants<br />Balloting between **Feb. 18 - Feb. 25, 2019** |
 | February 18, 2019                 | Orders given for shirt printing, lanyards, and tote-bags     |
 
-### 5. Timeline for each subcommittee
+### 5. Time-line for each subcommittee
 
 TODO: By each committee
 
 ### 6. Shared resources for committee
 
-Resources include: 
+Resources include:
 - Online media accounts
   - auvc.singapore@gmail.com
-  - [Facebook page](https://www.facebook.com/SingaporeAUVChallenge/?ref=bookmarks "SAUVC FB page")
-  - [Twitter handle](<https://twitter.com/sauvcsg> "SAUVC Twitter")
-  - [Instagram handle](<https://www.instagram.com/sauvcsg/> "SAUVC Instagram")
-  - [Reddit page](<[https://reddit.com/r/SAUVC/](https://www.reddit.com/r/SAUVC/)> "SAUVC Reddit")
-  - [Flickr albums](<https://www.flickr.com/photos/sauvc/> "SAUVC Flickr")
-  - [Github page](https://github.com/sauvc "SAUVC Github")
-  - [Youtube page](https://www.youtube.com/channel/UCC1XR5k-A8oQUrXvRDni_YQ "SAUVC Youtube")
-  - Registration, and t-shirt+diet preferences forms are on google account of auvc.singapore@gmail.com
-  - Team's feedback form is on surveymonkey accessible from google id of auvc.singapore@gmail.com
+  - [Facebook](https://www.facebook.com/SingaporeAUVChallenge/?ref=bookmarks "SAUVC FB page")
+  - [Twitter](<https://twitter.com/sauvcsg> "SAUVC Twitter")
+  - [Instagram](<https://www.instagram.com/sauvcsg/> "SAUVC Instagram")
+  - [Reddit](<[https://reddit.com/r/SAUVC/](https://www.reddit.com/r/SAUVC/)> "SAUVC Reddit")
+  - [Flickr](<https://www.flickr.com/photos/sauvc/> "SAUVC Flickr")
+  - [Github](https://github.com/sauvc "SAUVC Github")
+  - [Youtube](https://www.youtube.com/channel/UCC1XR5k-A8oQUrXvRDni_YQ "SAUVC Youtube")
+  - Registration, and t-shirt+diet preferences forms are on Google account of auvc.singapore@gmail.com
+  - Team's feedback form is on Survey Monkey accessible from Google id of auvc.singapore@gmail.com
   - Polling for panel discussion questions is typically done on pigeonhole
-  - 
+  -
+
 - Banners, standees (SAUVC banner, 2 generic standees with 'co-organized with SP', and 2 more are printed each year with that year's sponsor logos)
 - Document templates/raw files
   - Visa invitation letter
   - Guest invitation letter
-  - Publicity mail 
+  - Publicity mail
   - Generic Flyers
-  - Publicity flyer
+  - Publicity Flyers
   - Logo
   - Logistics manual/Program details sent to teams
   - Master excel sheet for consolidating all team logistics/details
-  TODO : Upload all docs to a google drive folder of auvc.singapore account ?
+  TODO : Upload all docs to a Google drive folder of auvc.singapore account ?
